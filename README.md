@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-22 - 
+## Boilerplate Repository - Challenge-22 - Pascal's Triangle
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
